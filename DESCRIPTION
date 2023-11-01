@@ -1,0 +1,12 @@
+Package: powerGORICA
+Type: Package
+Title: The GORICA power in an RI-CLPM
+Version: 0.1.0
+Author: Chuenjai Sukpan
+Maintainer: Chuenjai Sukpan <chuenjai.s@pnu.ac.th>
+Description: Calculating the power of the GORICA and evaluating hypotheses using the GORICA in an RI-CLPM
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+imports: MASS, lavaan, magick, restriktor, tsDyn
